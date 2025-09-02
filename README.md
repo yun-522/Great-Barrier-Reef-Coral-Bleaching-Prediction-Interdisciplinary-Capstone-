@@ -36,7 +36,7 @@ Due to licensing restrictions, the **full datasets are not included**. Instead, 
 
 ## Repository Structure  
 reef-bleaching-prediction/  
-│── [Interdisciplinary Project- Reef 4.html](./Interdisciplinary%20Project-%20Reef%204.html)   # My original code (model development, workflow)  
+│── [Interdisciplinary Project- Reef 4.html](https://yun-522.github.io/Great-Barrier-Reef-Coral-Bleaching-Prediction-Interdisciplinary-Capstone-/)   # My original code (model development, workflow)  
 │── [Report.pdf](https://github.com/yun-522/Great-Barrier-Reef-Coral-Bleaching-Prediction-Interdisciplinary-Capstone-/blob/3341376aa1fd693d91b03250a1ff7456855b0d12/Report.pdf)   # Final group report (my contributions: Results Part A & B, schematic)  
 │── [sample_bleachingSurveys.csv](./sample_bleachingSurveys.csv)   # Sample of bleaching survey dataset (5 rows)  
 │── [sample_ereefs_data.csv](./sample_ereefs_data.csv)             # Sample of environmental dataset (5 rows)  
